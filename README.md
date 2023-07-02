@@ -52,6 +52,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kraken-afk/kraken-afk/output/snake.svg" alt="Snake animation" />
-
 ###
