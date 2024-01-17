@@ -32,3 +32,8 @@
 </div>
 
 ###
+
+<div align="left">
+  <img src="https://media.tenor.com/sbvSVkB_hq8AAAAi/anime-dens.gif" height="120" alt="anime dancing"  />
+  <img src="https://media.tenor.com/um_qmSDo92YAAAAi/looking-for-a-job-job.gif"  height="120" alt="i need a job"/>
+</div>
