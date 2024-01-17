@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>
-    <img src="https://media.tenor.com/8fwLxQlQJhIAAAAi/gojo-gojo-satoru.gif" height="48" /> Hi, Welcome! <img src="https://media.tenor.com/sbvSVkB_hq8AAAAi/anime-dens.gif" height="48" />
+  <h1 align="left">
+    <img src="https://media.tenor.com/8fwLxQlQJhIAAAAi/gojo-gojo-satoru.gif" height="48" /> Hi, Welcome!
   </h1>
   <div align="left">
     <img align="right" src="https://media.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif" height="320">
@@ -22,6 +22,7 @@
       <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo" />
+      <img src="https://media.tenor.com/sbvSVkB_hq8AAAAi/anime-dens.gif" alt="anime dance" height="40" />
     </div>
     <br />
     <div>
