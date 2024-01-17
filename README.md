@@ -1,6 +1,6 @@
 <div>
 <img align="right" height="400" src="https://media.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif"  />
-  <h1 align="left">What's up?</h1>
+<h1><img align="left" height="42" src="https://media.tenor.com/sbvSVkB_hq8AAAAi/anime-dens.gif"  /> Hi, Welcome!</h1>
 <div align="left">
   <img src="https://img.shields.io/github/followers/kraken-afk.svg?style=social&label=Follow&maxAge=2592000" />
   <a href="https://twitter.com/trshppl">
@@ -26,7 +26,3 @@
 </div>
 </div>
 <br />
-<div align="left">
-  <img src="https://media.tenor.com/sbvSVkB_hq8AAAAi/anime-dens.gif" height="120" alt="anime dancing"  />
-  <img src="https://media.tenor.com/um_qmSDo92YAAAAi/looking-for-a-job-job.gif"  height="120" alt="i need a job"/>
-</div>
