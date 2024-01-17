@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="left">
-    <img src="https://media.tenor.com/8fwLxQlQJhIAAAAi/gojo-gojo-satoru.gif" height="48" /> Hi, Welcome!
+    Hi, Welcome! <img src="https://media.tenor.com/8fwLxQlQJhIAAAAi/gojo-gojo-satoru.gif" height="48" />
   </h1>
   <div align="left">
     <img align="right" src="https://media.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif" height="320">
