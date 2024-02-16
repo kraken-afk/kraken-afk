@@ -3,7 +3,9 @@ name: Waka Readme
 on:
   schedule:
     - cron: '0 7 * * *'
-    - push
+  push:
+    branches:
+      - main
   workflow_dispatch:
 jobs:
   update-readme:
