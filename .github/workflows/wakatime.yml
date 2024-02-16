@@ -19,3 +19,6 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_PROJECTS: "False"
           SYMBOL_VERSION: 2
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_DAYS_OF_WEEK: "False"
