@@ -1,9 +1,8 @@
 <div align="center">
   <h1 align="left">
-    Hi, Welcome! <img src="https://media.tenor.com/8fwLxQlQJhIAAAAi/gojo-gojo-satoru.gif" height="32" />
+    Hi, Welcome!
   </h1>
   <div align="left">
-    <img align="right" src="https://media.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif" height="320">
     <div>
       <img src="https://img.shields.io/github/followers/kraken-afk.svg?style=social&label=Follow&maxAge=2592000" />
       <a href="https://twitter.com/trshppl">
@@ -29,5 +28,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kraken-afk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph" />
     </div>
   </div>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
 <br />
