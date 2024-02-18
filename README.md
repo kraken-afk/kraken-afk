@@ -74,7 +74,7 @@ Linux                    2 hrs 10 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/kraken-afk/kraken-afk/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2024 12:11:16 UTC
+ Last Updated on 18/02/2024 12:12:36 UTC
 <!--END_SECTION:waka-->
 </div>
 <br />
