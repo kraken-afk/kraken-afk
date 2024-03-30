@@ -5,7 +5,7 @@
 
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2056%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -50,7 +50,7 @@ Linux                    7 hrs 33 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/kraken-afk/kraken-afk/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2024 23:41:55 UTC
+ Last Updated on 30/03/2024 23:43:26 UTC
 <!--END_SECTION:waka-->
 </div>
 <br />
