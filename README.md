@@ -15,7 +15,7 @@
   </div>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -51,7 +51,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kraken-afk/kraken-afk/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2024 23:36:17 UTC
+ Last Updated on 30/03/2024 23:37:53 UTC
 <!--END_SECTION:waka-->
 </div>
 <br />
