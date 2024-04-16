@@ -3,7 +3,7 @@
   [![Twitter badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/trshppl)
   [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noveanrer)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2029%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -45,5 +45,5 @@ Linux                    11 hrs 16 mins      ███████████�
 ```
 
 
- Last Updated on 16/04/2024 13:34:32 UTC
+ Last Updated on 16/04/2024 13:36:18 UTC
 <!--END_SECTION:waka-->
