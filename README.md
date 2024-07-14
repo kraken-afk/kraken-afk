@@ -3,6 +3,8 @@
   [![Twitter badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/trshppl)
   [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noveanrer)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2020%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -38,5 +40,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/07/2024 13:30:09 UTC
+ Last Updated on 14/07/2024 13:31:46 UTC
 <!--END_SECTION:waka-->
