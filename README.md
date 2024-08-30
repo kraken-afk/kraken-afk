@@ -3,7 +3,7 @@
   [![Twitter badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/trshppl)
   [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noveanrer)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2033%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -30,15 +30,18 @@ Sunday                   74 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               44 mins             ████████████████░░░░░░░░░   64.46 % 
+CSS                      23 mins             █████████░░░░░░░░░░░░░░░░   34.59 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/08/2024 17:08:57 UTC
+ Last Updated on 30/08/2024 17:09:29 UTC
 <!--END_SECTION:waka-->
