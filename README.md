@@ -3,7 +3,7 @@
   [![Twitter badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/trshppl)
   [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noveanrer)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-843%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2012%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -30,11 +30,11 @@ Sunday                   247 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   32.05 % 
-Lua                      37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-HTML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Astro                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TOML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Python                   1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Lua                      37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+HTML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Astro                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+TOML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 
 🔥 Editors: 
 Neovim                   3 hrs 24 mins       █████████████████████████   100.00 % 
@@ -44,5 +44,5 @@ Linux                    3 hrs 24 mins       ███████████�
 ```
 
 
- Last Updated on 02/04/2025 01:40:34 UTC
+ Last Updated on 03/04/2025 01:38:37 UTC
 <!--END_SECTION:waka-->
