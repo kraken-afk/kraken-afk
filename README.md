@@ -3,6 +3,8 @@
   [![Twitter badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/trshppl)
   [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noveanrer)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C448%20hrs%2013%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -28,15 +30,19 @@ Sunday                   317 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
+TypeScript               2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Markdown                 1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+TOML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Docker                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   7 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 03:59:39 UTC
+ Last Updated on 14/07/2026 03:20:18 UTC
 <!--END_SECTION:waka-->
