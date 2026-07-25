@@ -28,19 +28,19 @@ Sunday                   317 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 47 mins        ███████████░░░░░░░░░░░░░░   45.95 % 
-Other                    1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   40.69 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other                    1 hr 35 mins        ████████████░░░░░░░░░░░░░   48.07 % 
+TypeScript               1 hr 34 mins        ████████████░░░░░░░░░░░░░   47.66 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 53 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 03:33:05 UTC
+ Last Updated on 25/07/2026 03:30:25 UTC
 <!--END_SECTION:waka-->
