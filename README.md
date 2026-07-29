@@ -3,10 +3,6 @@
   [![Twitter badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/trshppl)
   [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noveanrer)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C473%20hrs%2026%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%209%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -32,41 +28,39 @@ Sunday                   317 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 34 mins        █████████████░░░░░░░░░░░░   53.33 % 
-TypeScript               1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   41.89 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Other                    10 mins             █████████████████████░░░░   83.23 % 
+Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 56 mins       █████████████████████████   100.00 % 
+Neovim                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 56 mins (100.0%)
+⏱ AI Coding Time: 13 mins (100.0%)
 
-✍️ 1,196 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 75,383,700 Input Tokens, 143,884 Output Tokens
+🔤 596,134 Input Tokens, 2,187 Output Tokens
 
-💵 $228.31 Estimated AI Cost This Week
+💵 $1.82 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 0 AI Prompts
+🧠 1 AI Sessions, 0 AI Prompts
 
-Claude                   1,209 lines         █████████████████████████   100.00 % 
+Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 03:25:10 UTC
+ Last Updated on 29/07/2026 03:25:48 UTC
 <!--END_SECTION:waka-->
