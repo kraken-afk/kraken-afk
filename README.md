@@ -32,40 +32,37 @@ Sunday                   329 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 26 mins        ████████████░░░░░░░░░░░░░   49.02 % 
-TypeScript               59 mins             ████████░░░░░░░░░░░░░░░░░   33.87 % 
-JSON                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+TypeScript               22 mins             ███████████░░░░░░░░░░░░░░   42.60 % 
+JSON                     21 mins             ██████████░░░░░░░░░░░░░░░   41.39 % 
+Bash                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 56 mins       █████████████████████████   100.00 % 
+Neovim                   52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 48 mins (95.23%)
+⏱ AI Coding Time: 44 mins (83.99%)
 
-✍️ 1,225 lines written by AI, 76 lines written by hand (94.16% AI-written)
+✍️ 0 lines written by AI, 76 lines written by hand (0.0% AI-written)
 
-🔤 41,521,981 Input Tokens, 130,498 Output Tokens
+🔤 2,263,401 Input Tokens, 7,959 Output Tokens
 
-💵 $84.35 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
-
-Claude                   1,682 lines         █████████████████████████   100.00 % 
+🧠 2 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.16% of written lines came from AI
-📚 Verbose Prompter — average 2,202 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.32% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 12,307 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 04:15:43 UTC
+ Last Updated on 05/09/2026 04:10:17 UTC
 <!--END_SECTION:waka-->
