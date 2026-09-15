@@ -10,19 +10,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1755 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+🌞 Morning                1756 commits        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
 🌆 Daytime                2637 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌃 Evening                2605 commits        ████████░░░░░░░░░░░░░░░░░   32.12 % 
+🌃 Evening                2605 commits        ████████░░░░░░░░░░░░░░░░░   32.11 % 
 🌙 Night                  1114 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   998 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  971 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Wednesday                1858 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Tuesday                  972 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Wednesday                1858 commits        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 Thursday                 1401 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Friday                   1712 commits        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Friday                   1712 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
 Saturday                 839 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 Sunday                   332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 ```
@@ -32,38 +32,41 @@ Sunday                   332 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      15 mins             █████████████████████████   99.02 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+TypeScript               3 hrs 33 mins       ██████████████████░░░░░░░   70.28 % 
+Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-Neovim                   15 mins             █████████████████████████   100.00 % 
+Neovim                   5 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.00 % 
+Linux                    5 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 4 mins (100.0%)
 
-✍️ 110 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,472 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,403,433 Input Tokens, 5,603 Output Tokens
+🔤 86,712,556 Input Tokens, 241,405 Output Tokens
 
-💵 $34.31 Estimated AI Cost This Week
+💵 $879.20 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 0 AI Prompts
+🧠 6 AI Sessions, 15 AI Prompts
 
-Claude                   110 lines           █████████████████████████   100.00 % 
+Claude                   1,555 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
+📝 Concise Prompter — average 110 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/09/2026 04:39:43 UTC
+ Last Updated on 15/09/2026 04:40:16 UTC
 <!--END_SECTION:waka-->
